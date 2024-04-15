@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Hi, my name is manya.I am a student in St. Mother Teresa High School.</p>
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zendevs.xyz%2Fclosures-et-curryfication-en-javascript%2F&psig=AOvVaw2UrWmAJ7PYkDDB9dFdkklt&ust=1713292456036000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiDqfTtxIUDFQAAAAAdAAAAABAI'>
-                
-
+<p>Hi, my name is manya.I am a 16 years old student in St. Mother Teresa High School.</p>
+<br />
+<p>✍ Programming Languages</p>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
              

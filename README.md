@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 <p>Hi, my name is manya.I am a 16 years old student in St. Mother Teresa High School.</p>
 <br />
 <p>✍ Programming Languages</p>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\
+<a href="https://github.com/search?q=user%3Amanya-feng+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>

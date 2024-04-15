@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Hi, my name is manya.I am a student in St. Mother Teresa High School.</p>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zendevs.xyz%2Fclosures-et-curryfication-en-javascript%2F&psig=AOvVaw2UrWmAJ7PYkDDB9dFdkklt&ust=1713292456036000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiDqfTtxIUDFQAAAAAdAAAAABAI'>
                 
 
              

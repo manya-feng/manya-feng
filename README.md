@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <br />
+<img  src="images/puppy.jpg">

@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <br />
-<img  src="![puppy](https://github.com/manya-feng/manya-feng/assets/159185413/3f282a40-eb55-4045-89e4-9de7dc41d5d6)">
-
